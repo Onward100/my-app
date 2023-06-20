@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//:Onward100.github.io/my-app/static/css/main.dab47f4a.css",
+    "main.js": "/http//:Onward100.github.io/my-app/static/js/main.2a3537ec.js",
+    "index.html": "/http//:Onward100.github.io/my-app/index.html",
+    "main.dab47f4a.css.map": "/http//:Onward100.github.io/my-app/static/css/main.dab47f4a.css.map",
+    "main.2a3537ec.js.map": "/http//:Onward100.github.io/my-app/static/js/main.2a3537ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dab47f4a.css",
+    "static/js/main.2a3537ec.js"
+  ]
+}
