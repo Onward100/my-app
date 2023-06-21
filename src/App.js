@@ -40,7 +40,7 @@ function TodoList() {
           type="text"
           value={newTodo}
           onChange={(e) => setNewTodo(e.target.value)}
-          placeholder="Enter a new task"
+          placeholder="Enter a new task..."
         />
         <input
           type="text"
